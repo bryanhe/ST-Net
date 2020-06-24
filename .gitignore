@@ -1,0 +1,17 @@
+*.tsv
+*.pkl
+.tox
+**.egg-info**
+**__pycache__**
+.mypy_cache**
+**.swp
+**.swo
+heterogeneity/outputs/*
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.pyc
+
+stnet.cfg
+.stnet.cfg
