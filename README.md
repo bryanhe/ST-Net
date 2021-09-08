@@ -12,7 +12,7 @@ For more details, see the acompanying paper,
 
 Downloading Dataset and Configuring Paths
 -----------------------------------------
-By default, the raw data must be downloaded from [here](http://www.spatialtranscriptomicsresearch.org/) and placed at `data/hist2tscript/`.
+By default, the raw data must be downloaded from [here](https://data.mendeley.com/datasets/29ntw7sh4r) and placed at `data/hist2tscript/`.
 The processed files will then be written to `data/hist2tscript-patch/`.
 These locations  can be changed by creating a config file (the priority for the filename is `stnet.cfg`, `.stnet.cfg`, `~/stnet.cfg`, `~/.stnet.cfg`).
 An example config file is given as `example.cfg`.
